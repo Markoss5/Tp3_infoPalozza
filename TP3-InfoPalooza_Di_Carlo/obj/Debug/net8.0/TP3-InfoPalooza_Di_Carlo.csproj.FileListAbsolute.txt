@@ -1,0 +1,4 @@
+C:\Users\devandroid\Downloads\TP3-InfoPalooza-main\TP3-InfoPalooza_Di_Carlo\obj\Debug\net8.0\TP3-InfoPalooza_Di_Carlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devandroid\Downloads\TP3-InfoPalooza-main\TP3-InfoPalooza_Di_Carlo\obj\Debug\net8.0\TP3-InfoPalooza_Di_Carlo.AssemblyInfoInputs.cache
+C:\Users\devandroid\Downloads\TP3-InfoPalooza-main\TP3-InfoPalooza_Di_Carlo\obj\Debug\net8.0\TP3-InfoPalooza_Di_Carlo.AssemblyInfo.cs
+C:\Users\devandroid\Downloads\TP3-InfoPalooza-main\TP3-InfoPalooza_Di_Carlo\obj\Debug\net8.0\TP3-InfoPalooza_Di_Carlo.csproj.CoreCompileInputs.cache
